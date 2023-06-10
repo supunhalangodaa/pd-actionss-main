@@ -1,4 +1,2 @@
-myassurantpolicy.com
-insuranceclaimcheck.com	
-rentersecurity.com
-mywirelessclaim.com
+hackerone.com
+bugcrowd.com
